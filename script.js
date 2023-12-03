@@ -34,7 +34,7 @@ function DisplayData(result) {
   <p>Location: ${locationName}</p>
 </div>
 <div id="data">
-  <p>Wind Speed: ${speed}kmph</p>
+  <p>Wind Speed: ${speed} kmph</p>
 </div>
 <div id="data">
   <p>Humidity : ${humidity}</p>
@@ -43,7 +43,7 @@ function DisplayData(result) {
   <p>Time Zone : GMT ${time.sign}${time.hours}:${time.minutes}</p>
 </div>
 <div id="data">
-  <p>Pressure: ${ pressure} Bar</p>
+  <p>Pressure: ${ pressure} atm</p>
 </div>
 <div id="data">
   <p>Wind Direction : ${direction}</p>
@@ -52,7 +52,7 @@ function DisplayData(result) {
   <p>UV Index : ${500}</p>
 </div>
 <div id="data">
-  <p>Feels like: ${temp}</p>
+  <p>Feels like: ${temp}°</p>
 </div>`;
 }
 
