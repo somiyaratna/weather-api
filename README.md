@@ -1,7 +1,7 @@
 # Project Name: Geolocation Weather App
 Welcome to the Geolocation Weather App repository! This project allows you to fetch a user's current geolocation, display it on Google Maps, fetch weather data based on their location, and display the weather information dynamically. This README file will guide you through the features and how to set up and use this application.
 
-Explore Your Location : https://chumkichakraborty.github.io/Weather_App/
+All you have to do is click on the "Fetch Data" button and Voila! All the weather details in your area with the click of a button.
 
 Features
 1. Fetch Geolocation
@@ -21,10 +21,3 @@ Explore the weather data for your location, including temperature, humidity, win
 
 Enjoy staying informed about the weather conditions wherever you are!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-If you have any questions or need further assistance, feel free to contact us at your-chumkic173@gmail.com
-
-Thank you for using the Geolocation Weather App! We hope you find it helpful and enjoy using it. Happy coding!
